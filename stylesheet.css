@@ -1,0 +1,50 @@
+body {
+	background-color: #000;
+	color: white;
+	font-size: 20px;
+}
+div {
+	background-color: #cc3300;
+	color: white;
+}
+#header {
+	position: fixed;
+	margin-top: 10px;
+	width: 220px;
+	text-align: center;
+}
+
+#blankColumn {
+	position: relative;
+	float: left;
+	margin-top: 80px;
+	width: 220px;
+	height: 930px;
+}
+
+#blankColumn p {
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+#mainContent {
+	position: relative;
+	float: right;
+	margin-top: 10px;
+	width: 83%;
+	height: 1000px;
+}
+
+#mainContent p{
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+#Pictures {
+	height: 100px;
+	width: 250px;
+}
+
+h4{
+	margin-left: 5px;
+}
